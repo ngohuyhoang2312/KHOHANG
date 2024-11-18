@@ -1,0 +1,15 @@
+C:\Users\PC\Project\QUANLYKHOHANG\BusinesssLayer\bin\Debug\BusinesssLayer.dll.config
+C:\Users\PC\Project\QUANLYKHOHANG\BusinesssLayer\bin\Debug\BusinesssLayer.dll
+C:\Users\PC\Project\QUANLYKHOHANG\BusinesssLayer\bin\Debug\BusinesssLayer.pdb
+C:\Users\PC\Project\QUANLYKHOHANG\BusinesssLayer\bin\Debug\DataLayer.dll
+C:\Users\PC\Project\QUANLYKHOHANG\BusinesssLayer\bin\Debug\EntityFramework.dll
+C:\Users\PC\Project\QUANLYKHOHANG\BusinesssLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Project\QUANLYKHOHANG\BusinesssLayer\bin\Debug\DataLayer.pdb
+C:\Users\PC\Project\QUANLYKHOHANG\BusinesssLayer\bin\Debug\DataLayer.dll.config
+C:\Users\PC\Project\QUANLYKHOHANG\BusinesssLayer\bin\Debug\EntityFramework.xml
+C:\Users\PC\Project\QUANLYKHOHANG\BusinesssLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Project\QUANLYKHOHANG\BusinesssLayer\obj\Debug\BusinesssLayer.csproj.AssemblyReference.cache
+C:\Users\PC\Project\QUANLYKHOHANG\BusinesssLayer\obj\Debug\BusinesssLayer.csproj.CoreCompileInputs.cache
+C:\Users\PC\Project\QUANLYKHOHANG\BusinesssLayer\obj\Debug\Business.385C7B48.Up2Date
+C:\Users\PC\Project\QUANLYKHOHANG\BusinesssLayer\obj\Debug\BusinesssLayer.dll
+C:\Users\PC\Project\QUANLYKHOHANG\BusinesssLayer\obj\Debug\BusinesssLayer.pdb
